@@ -19,5 +19,5 @@ matplotlib
 seaborn
 scikit-learn
 
-Conclusion
+Conclusion:
 This project provides a comprehensive framework for analyzing the credit card cancellation rates at Bank X. By following the outlined steps and leveraging the power of pandas and other Python libraries, we aim to deliver valuable insights that can help improve customer retention strategies.
